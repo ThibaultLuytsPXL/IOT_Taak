@@ -2,7 +2,7 @@
 
 ## Summary
 
-This IoT project is designed to test our skill in understanding, and developing, IoT-based devices and applications. We will do so in a way that is correct, modular, and maintainable. We will use and learn about multiple technologies during this project. The aim of this project is to make the pynq board into a IoT device that uses openremote to visualize the data the pynq board recives/makes. In this project we will be making use of Docker and openremote as well as Github and PuTTY. Docker is used for running the Openremote container on the Pynq board. PuTTY gives us the ability to use the CLI(command line interface) to install all the tools and pakages for this project
+This IoT project is designed to test our skill in understanding, and developing, IoT-based devices and applications. We will do so in a way that is correct, modular, and maintainable. We will use and learn about multiple technologies during this project. The aim of this project is to make the pynq board into a IoT device that uses openremote to visualize the data the pynq board recives/makes. In this project we will be making use of Docker and openremote as well as Github and PuTTY. Docker is used for running the Openremote container on the Pynq board. PuTTY gives us the ability to use the CLI(command line interface) to install all the tools and pakages for this project.
 
 ## Pynq
 
