@@ -12,7 +12,7 @@ jobs:
       - name: Build container
         uses: docker/build-push-action@v1
         with:
-          username: axelvanherle
+          username: thibaultluyts
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
           repository: thibaultluytspxl/iot_taak/hallo
