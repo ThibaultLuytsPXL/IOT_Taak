@@ -20,3 +20,6 @@ OpenRemote is an open-source platform for building and deploying Internet of Thi
 
 ## Putty 
 
+PuTTY is a free and open-source terminal emulator, serial console, and network file transfer application. PuTTY is mainly used as a SSH client, which allows you to connect to remote servers and devices over a network and run commands and transfer files as if you were sitting directly in front of them. PuTTY supports various authentication methods including password, public key and keyboard-interactive, and also supports several encryption methods, such as AES, 3DES, and Blowfish.
+
+In addition to SSH, PuTTY also supports other protocols such as Telnet and serial connections. The serial connection feature allows PuTTY to be used as a terminal emulator for serial devices such as microcontrollers, embedded systems, and other devices that use a serial connection to communicate. This can be useful for debugging, testing, and programming these devices.
